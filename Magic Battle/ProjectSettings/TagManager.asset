@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - Laser
+  - ElectroHit
+  - WayPoints
+  - EnemyDragon
+  - ClawnHit
+  - Shield
+  - FxTemporaire
+  - WizardEnemyHit1
+  - EnemyWizard
+  - DodgeEffect
+  - EnemyWizardMale
+  - CircleIndicator
+  - OrcWarrior
+  - OrcDodgeEffect
+  - Timer
+  - SpawnPoints
+  - Scenario
+  - BlockFlame2
+  - BlockFlame3
+  - TownSphere
+  - PlayerCamera
+  - ChooseBtn
+  - ChooseBtnText
+  - ChoosenCharacter
+  - ChTemplate
+  - HealthBar
+  - PowerBar
+  - ShieldBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Character
+  - Ground
+  - Potion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

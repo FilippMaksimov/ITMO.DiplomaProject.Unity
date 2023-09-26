@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 5e81541a93348f346bb3801e3397e1ae
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ABS (White)
+    second: {fileID: 2100000, guid: bab761d134f6f544daf359c5cc282beb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum - Satin
+    second: {fileID: 2100000, guid: 141b460d07c771b498aa2449ccf5c7b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Balc\xE3o Pintura - Esmalte com brilho (Cinza escuro)"
+    second: {fileID: 2100000, guid: 6cfe2aaeb737e2f42aee0fafe53ccbf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banqueta Carvalho - Semibrilhante
+    second: {fileID: 2100000, guid: 52cd5b49ef305ce4296b1c625d9d4207, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barris Nogueira
+    second: {fileID: 2100000, guid: 84609519f99e422449bcf4230abe5d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bebida Pintura - Esmalte com brilho (Amarelo)
+    second: {fileID: 2100000, guid: cc47b4495db5250408157c0f4eab0a63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brass - Polished
+    second: {fileID: 2100000, guid: 271bd5938898ee14ca0660437178c000, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronze - Patina
+    second: {fileID: 2100000, guid: 688d92adb0742c84494dc42f5d563ce0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronze - Polished
+    second: {fileID: 2100000, guid: 6d71cb444b3bcd441ace0b5a4581612d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbon Fiber - Plain
+    second: {fileID: 2100000, guid: 891cca9ae6a730649a7dfaaa6ad0c626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cherry
+    second: {fileID: 2100000, guid: 4ae83939f1c486349a7a54eba4df083f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coating - Black Oxide
+    second: {fileID: 2100000, guid: 5823d5b6165a1174aa311489fcf4c2e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Deta\xE7hes de madeiraas Cerejeira"
+    second: {fileID: 2100000, guid: 2b3b105412779d140a247b1332dd1e3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Estante Pintura - Esmalte com brilho (Verde)
+    second: {fileID: 2100000, guid: 59e79ff2669c78f449b7e90fcd5c6927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric (Light Brown)
+    second: {fileID: 2100000, guid: 4bfa5a5714dacf141b23986f5c853665, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Garrafas Vidro (Bronze)
+    second: {fileID: 2100000, guid: 10429686ff519ec4b87c09c4bcfdfb73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gemstone - Diamond
+    second: {fileID: 2100000, guid: d27f07aef2bb2e247a5d05972bfa4a91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gemstone - Ruby
+    second: {fileID: 2100000, guid: 332cbfc4382f42440ba1a27eb821f9c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gemstone - Sapphire
+    second: {fileID: 2100000, guid: f9c3e17fb3ba71f4cb01c6b7de0415b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass (Clear)
+    second: {fileID: 2100000, guid: 153d71396f29a5c44bd517fb6f9a2874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold - Polished
+    second: {fileID: 2100000, guid: 05344af0f6def3f4b9e57e3abc16268d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED (Red)
+    second: {fileID: 2100000, guid: 94964608f2a7a8b4f8ca83c30e95307c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Lareira Superf\xEDcie - Fosca"
+    second: {fileID: 2100000, guid: 4d8e547caf7ea5e478ba9a6e2527aa5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lenha Bambu claro - Semi-brilhante
+    second: {fileID: 2100000, guid: b5f018f3334c6094e820aba50b813542, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesa redonda Mogno
+    second: {fileID: 2100000, guid: 22016abb08f990c4abf1531de38ab8cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nickel - Polished
+    second: {fileID: 2100000, guid: 34a8717708dd16646a61ac08936c79c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nickel - Satin
+    second: {fileID: 2100000, guid: 270a9d4185034ea46b1f8e01a14599d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nylon 6-6 (White)
+    second: {fileID: 2100000, guid: 0fa8030358ea015478cbebfeac778a91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oak - Semigloss
+    second: {fileID: 2100000, guid: 2910cc3ac946aaf4e9a86652d4b7a55f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PA 11 - Nylon- HP 11-30 (with EOS P 396 3D Printer)
+    second: {fileID: 2100000, guid: 177f591d802653a4fbed12035468ed2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PEEK
+    second: {fileID: 2100000, guid: 8fdd1855f09f96441a8154c65f2c7c39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paek (Beige)
+    second: {fileID: 2100000, guid: 5e901a0ecd7b2e24c871c6d2ae935d69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint - Enamel Glossy (Red)
+    second: {fileID: 2100000, guid: 4a97a4b733ef69440a9411f8ec13ebeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint - Metallic (Dark Grey)
+    second: {fileID: 2100000, guid: d92937d3e95df2d499084d0803e686b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paper (White)
+    second: {fileID: 2100000, guid: b3bb052d8f7842a4ebe20efba1423474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Parede Superf\xEDcie - Fosca"
+    second: {fileID: 2100000, guid: 55a793cf073e9f44181b48f0b7b3b672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pine
+    second: {fileID: 2100000, guid: 6fd6a8f81df60f04095405b559e52838, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic - Translucent Glossy (Blue)
+    second: {fileID: 2100000, guid: e17d3957f78abdb4a9008ecf57882f02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic - Translucent Glossy (Yellow)
+    second: {fileID: 2100000, guid: 5bc29420f700b7144943907b0da115dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Polymide (Kapton)
+    second: {fileID: 2100000, guid: 4e30ff05b7236724190c08ca9e8168bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stainless Steel - Brushed Linear Long
+    second: {fileID: 2100000, guid: ada4a73654d558e4cbd24a61a61124b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stainless Steel - Satin
+    second: {fileID: 2100000, guid: 6a81c1e093c96ef438c4bf25c3a6ef87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel - Satin
+    second: {fileID: 2100000, guid: 6ca748e15e8c3be4ea055612c69b2785, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Surface - Matte
+    second: {fileID: 2100000, guid: ce0d3e401bd355247be9a2072a1e60a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vidro (Bronze) Garrafa
+    second: {fileID: 2100000, guid: d1d28c8b328c7324ca72f6bbc6d500d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water - Clear
+    second: {fileID: 2100000, guid: 4b067acea889a9b429d31fdc9de24a4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cartaz 2 Poliestireno
+    second: {fileID: 2100000, guid: ccf47fbb98b8c544ba716ea9b0cb9564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cartaz Espelho
+    second: {fileID: 2100000, guid: 8e8f6d297206f9e41b06070208914f5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "tocha Pal\xE1dio - Polido"
+    second: {fileID: 2100000, guid: dd83690042289994ab02117956daa3a3, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
